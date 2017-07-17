@@ -1,1 +1,1 @@
-React Flickers
+React Flickers - This is a beta version (many changes need to come)
