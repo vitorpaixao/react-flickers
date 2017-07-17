@@ -1,0 +1,45 @@
+{
+  "name": "react-flickers",
+  "version": "0.0.1",
+  "description": "React Flicker",
+  "main": "index.js",
+  "author": "Vitor Paixão",
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/vitorpaixao/react-flickers"
+  },
+  "keywords": ["reactjs","flicker"],
+  "private": false,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router-dom": "^4.1.1"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-bro": "^1.0.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "react-scripts": "1.0.10",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "chalk": "^1.1.1",
+    "gulp-duration": "0.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "utils-merge": "^1.0.0",
+    "gulp-livereload": "^3.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
